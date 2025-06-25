@@ -1,0 +1,28 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "group": "tables",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "deeperdarker:echo"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [],
+    "variantChildren": {
+      "secondary": 3
+    }
+  },
+  "result": {
+    "outputClass": "RawLogTableBlock",
+    "count": 4
+  }
+}
