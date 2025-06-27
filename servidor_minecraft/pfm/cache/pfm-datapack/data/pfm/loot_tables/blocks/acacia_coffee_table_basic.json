@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "acacia_coffee_table_basic",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

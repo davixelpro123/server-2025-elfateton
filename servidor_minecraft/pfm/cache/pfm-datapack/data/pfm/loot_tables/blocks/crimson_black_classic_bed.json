@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "crimson_black_classic_bed",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

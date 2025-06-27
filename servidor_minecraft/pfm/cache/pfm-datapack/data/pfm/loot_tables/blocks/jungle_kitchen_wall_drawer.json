@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "jungle_kitchen_wall_drawer",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

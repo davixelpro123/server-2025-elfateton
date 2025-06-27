@@ -22,14 +22,9 @@
 	// Mod compatibility toggles (enabled: true, disabled: false)
 	"compat": {
 		"byg": true,
-		"traverse": true,
-		"terrestria": true,
-		"cinderscapes": true,
-		"blockus": true,
-		"promenade": true,
-		"woods_and_mires": true,
-		"towelette": true,
+		"architects_palette": true,
 		"biomemakeover": true,
-		"techreborn": true
+		"biomesoplenty": true,
+		"ecologics": true
 	}
 }

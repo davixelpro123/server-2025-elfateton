@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "diorite_kitchen_counter",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "oak_chair_classic_light_blue",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

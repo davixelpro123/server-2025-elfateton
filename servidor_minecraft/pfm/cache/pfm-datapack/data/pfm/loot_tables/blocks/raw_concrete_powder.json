@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "raw_concrete_powder",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "birch_simple_stool",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

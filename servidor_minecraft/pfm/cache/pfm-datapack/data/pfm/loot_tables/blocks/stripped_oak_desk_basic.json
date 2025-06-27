@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "stripped_oak_desk_basic",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

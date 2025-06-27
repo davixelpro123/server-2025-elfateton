@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "dark_oak_chair_modern",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

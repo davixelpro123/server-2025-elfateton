@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "pink_wood_desk_cabinet_basic",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [

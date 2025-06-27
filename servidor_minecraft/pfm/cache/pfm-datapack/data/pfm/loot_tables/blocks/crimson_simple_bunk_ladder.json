@@ -1,6 +1,7 @@
 {
   "pools": [
     {
+      "name": "crimson_simple_bunk_ladder",
       "rolls": 1.0,
       "bonus_rolls": 0.0,
       "entries": [
